@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\plush\\Documents\\Projetos-C#\\Trabalho\\Atividade\\Atividade\\Atividade.csproj": {}
+    "C:\\Users\\renne\\source\\repos\\TrabalhoGenetica\\Trabalho\\Atividade\\Atividade\\Atividade.csproj": {}
   },
   "projects": {
-    "C:\\Users\\plush\\Documents\\Projetos-C#\\Trabalho\\Atividade\\Atividade\\Atividade.csproj": {
+    "C:\\Users\\renne\\source\\repos\\TrabalhoGenetica\\Trabalho\\Atividade\\Atividade\\Atividade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\plush\\Documents\\Projetos-C#\\Trabalho\\Atividade\\Atividade\\Atividade.csproj",
+        "projectUniqueName": "C:\\Users\\renne\\source\\repos\\TrabalhoGenetica\\Trabalho\\Atividade\\Atividade\\Atividade.csproj",
         "projectName": "Atividade",
-        "projectPath": "C:\\Users\\plush\\Documents\\Projetos-C#\\Trabalho\\Atividade\\Atividade\\Atividade.csproj",
-        "packagesPath": "C:\\Users\\plush\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\plush\\Documents\\Projetos-C#\\Trabalho\\Atividade\\Atividade\\obj\\",
+        "projectPath": "C:\\Users\\renne\\source\\repos\\TrabalhoGenetica\\Trabalho\\Atividade\\Atividade\\Atividade.csproj",
+        "packagesPath": "C:\\Users\\renne\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\renne\\source\\repos\\TrabalhoGenetica\\Trabalho\\Atividade\\Atividade\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\plush\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\renne\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
