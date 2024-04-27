@@ -1,0 +1,14 @@
+C:\Users\plush\Documents\Projetos-C#\Trabalho\Atividade\Atividade\bin\Debug\net8.0\Atividade.exe
+C:\Users\plush\Documents\Projetos-C#\Trabalho\Atividade\Atividade\bin\Debug\net8.0\Atividade.deps.json
+C:\Users\plush\Documents\Projetos-C#\Trabalho\Atividade\Atividade\bin\Debug\net8.0\Atividade.runtimeconfig.json
+C:\Users\plush\Documents\Projetos-C#\Trabalho\Atividade\Atividade\bin\Debug\net8.0\Atividade.dll
+C:\Users\plush\Documents\Projetos-C#\Trabalho\Atividade\Atividade\bin\Debug\net8.0\Atividade.pdb
+C:\Users\plush\Documents\Projetos-C#\Trabalho\Atividade\Atividade\obj\Debug\net8.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plush\Documents\Projetos-C#\Trabalho\Atividade\Atividade\obj\Debug\net8.0\Atividade.AssemblyInfoInputs.cache
+C:\Users\plush\Documents\Projetos-C#\Trabalho\Atividade\Atividade\obj\Debug\net8.0\Atividade.AssemblyInfo.cs
+C:\Users\plush\Documents\Projetos-C#\Trabalho\Atividade\Atividade\obj\Debug\net8.0\Atividade.csproj.CoreCompileInputs.cache
+C:\Users\plush\Documents\Projetos-C#\Trabalho\Atividade\Atividade\obj\Debug\net8.0\Atividade.dll
+C:\Users\plush\Documents\Projetos-C#\Trabalho\Atividade\Atividade\obj\Debug\net8.0\refint\Atividade.dll
+C:\Users\plush\Documents\Projetos-C#\Trabalho\Atividade\Atividade\obj\Debug\net8.0\Atividade.pdb
+C:\Users\plush\Documents\Projetos-C#\Trabalho\Atividade\Atividade\obj\Debug\net8.0\Atividade.genruntimeconfig.cache
+C:\Users\plush\Documents\Projetos-C#\Trabalho\Atividade\Atividade\obj\Debug\net8.0\ref\Atividade.dll
